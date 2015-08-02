@@ -1,4 +1,8 @@
-﻿History
+History
 --------
 V1.0
--inital Board
+- initial Board
+
+V1.1
+- adding optinal micro SD Card
+- moving the push button to the center of the display
